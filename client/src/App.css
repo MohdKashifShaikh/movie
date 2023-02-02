@@ -1,0 +1,6 @@
+.flex-box {
+  display: flex;
+}
+.card-div {
+  flex-wrap: wrap;
+}
